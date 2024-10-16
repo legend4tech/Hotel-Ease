@@ -76,7 +76,7 @@ https://hotel-ease.vercel.app/
 
 4. Start the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
