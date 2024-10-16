@@ -1,6 +1,6 @@
 # **HotelEase**
 
-https://cabinhub.vercel.app/
+https://hotel-ease.vercel.app/
 
 **HotelEase** is a comprehensive web application designed for hotel employees to efficiently manage cabins, bookings, and guest information. The app ensures streamlined operations for hotel staff by providing features like cabin management, booking handling, and guest data updates, with a focus on ease of use and security.
 
@@ -93,7 +93,7 @@ https://cabinhub.vercel.app/
 
 ## **View Web App Live**
 
-- 👉[Hotel Ease](https://your-link-here)
+- 👉[Hotel Ease](https://hotel-ease.vercel.app)
 
 ## **Possible Future Enhancements**
 
@@ -106,4 +106,4 @@ https://cabinhub.vercel.app/
 
 ## **Copyright**
 
-&copy; 2024 [Legend4tech](https://your-link-here). All rights reserved.
+&copy; 2024 [Legend4tech](https://github.com/legend4tech). All rights reserved.
